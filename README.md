@@ -1,5 +1,5 @@
 - Hi, I’m Conor Jenkins
-- I’m interested in Mass Spectrometry Based Proteomics
+- I’m interested in Mass Spectrometry Based Proteomics and Metabolomics
 - I’m looking to collaborate on Multiomics Classification Based Machine Learning
 
 https://orcid.org/0000-0002-2333-9184
